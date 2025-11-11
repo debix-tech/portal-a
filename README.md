@@ -29,7 +29,7 @@ The Portal A is a versatile wireless gateway that offers seamless connectivity a
 |**Communnication**|                                                                      
 | LAN             | 1 x Gigabit Network                                                     |
 | LoRa            | 1 x LoRa module (optional), support 470MHz, 868MHz and 915MHz           |
-| WiFi & BT       | 2.4GHz & 5GHz Wi-Fi 6, BT 5.4, external Wi-Fi SMA antenna connector     |
+| WiFi & BT       | 2.4GHz Wi-Fi 4, BT 4.2, external Wi-Fi SMA antenna connector     |
 | 4G              | 1 x 4G module (optional)                                                |
 | GPS             | 1 x GPS module (optional)                                               |
 |**I/O Interfaces**|
